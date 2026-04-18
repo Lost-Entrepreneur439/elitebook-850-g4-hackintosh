@@ -1,4 +1,4 @@
-macOS High Sierra EFI for the HP EliteBook 850 G4 using OpenCore. I will try to keep this EFI up to date with the latest OpenCore and kexts
+macOS Ventura EFI for the HP EliteBook 850 G4 using OpenCore. I will try to keep this EFI up to date with the latest OpenCore and kexts
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dad5442-8a8c-4095-8285-c09e3f7c2a09" />
 
